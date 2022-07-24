@@ -211,7 +211,7 @@ void main()
 	auto f = fopen("games.csv", "r");
     out = fopen("stats.txt", "wt");
 	fgets(buf, 1000, f);
-	cStringVector header(buf, ",", true);
+	cStringVector header(buf, ",\n", false);
 	players.reserve(header.size()-1);
 	for(int i = 2; i<header.size(); ++i)  // first two coloumns: game, date
 	{
@@ -222,7 +222,7 @@ void main()
 	{
 		fgets(buf, 1000, f);
 		++match_count;
-		cStringVector parts(buf, ",", true);
+		cStringVector parts(buf, ",\n", true);
 		auto gameIt = find_if(ALL(games), [name = parts[0]](auto& g) { return g.name==name; });
 		if(gameIt ==games.end())
 		{

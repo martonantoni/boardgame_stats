@@ -1,10 +1,10 @@
-Number of matches: 691
+Number of matches: 695
 -------------------------
 
 Match count by game:
 
 Race for the Galaxy...: 120
-Dune..................: 77
+Dune..................: 81
 Floriferous...........: 41
 Roll for the Galaxy...: 39
 Herbaceous............: 27
@@ -76,7 +76,7 @@ Nyet..................: 1
 
 --- Marci ---
 Race for the Galaxy...  played: 118 first: 40 ( 33%), last: 18 ( 15%)
-Dune..................  played: 77 first: 26 ( 33%), last: 13 ( 16%)
+Dune..................  played: 81 first: 29 ( 35%), last: 13 ( 16%)
 Floriferous...........  played: 39 first: 10 ( 25%), last: 17 ( 43%)
 Roll for the Galaxy...  played: 39 first: 19 ( 48%), last:  7 ( 17%)
 Herbaceous............  played: 27 first: 11 ( 40%), last:  7 ( 25%)
@@ -143,7 +143,7 @@ Nyet..................  played:  1 first:  0 (  0%), last:  0 (  0%)
 
 --- Évi ---
 Race for the Galaxy...  played: 90 first: 14 ( 15%), last: 38 ( 42%)
-Dune..................  played: 69 first: 10 ( 14%), last: 30 ( 43%)
+Dune..................  played: 73 first: 10 ( 13%), last: 33 ( 45%)
 Floriferous...........  played: 33 first: 10 ( 30%), last:  5 ( 15%)
 Roll for the Galaxy...  played: 29 first:  2 (  6%), last: 16 ( 55%)
 Herbaceous............  played: 23 first:  5 ( 21%), last:  8 ( 34%)
@@ -203,7 +203,7 @@ Coup..................  played:  1 first:  0 (  0%), last:  0 (  0%)
 
 --- Gyuri ---
 Race for the Galaxy...  played: 66 first: 36 ( 54%), last: 10 ( 15%)
-Dune..................  played: 61 first: 36 ( 59%), last:  5 (  8%)
+Dune..................  played: 64 first: 37 ( 57%), last:  5 (  7%)
 Roll for the Galaxy...  played: 29 first: 13 ( 44%), last:  2 (  6%)
 Floriferous...........  played: 17 first:  2 ( 11%), last:  2 ( 11%)
 Herbaceous............  played: 13 first:  2 ( 15%), last:  4 ( 30%)
@@ -303,7 +303,7 @@ Cascadia..............  played:  1 first:  0 (  0%), last:  0 (  0%)
 
 --- Zsolt ---
 Race for the Galaxy...  played: 95 first: 28 ( 29%), last: 28 ( 29%)
-Dune..................  played: 34 first:  4 ( 11%), last: 12 ( 35%)
+Dune..................  played: 37 first:  4 ( 10%), last: 13 ( 35%)
 Ra....................  played: 25 first: 10 ( 40%), last:  4 ( 16%)
 Roll for the Galaxy...  played: 23 first:  3 ( 13%), last:  8 ( 34%)
 Floriferous...........  played: 20 first:  5 ( 25%), last: 10 ( 50%)
@@ -380,10 +380,10 @@ Tiny Towns............  played:  1 first:  0 (  0%), last:  1 (100%)
 
 
 --- Gábor ---
+Dune..................  played: 14 first:  1 (  7%), last:  8 ( 57%)
 Ra....................  played: 14 first:  4 ( 28%), last:  3 ( 21%)
 Race for the Galaxy...  played: 14 first:  2 ( 14%), last:  8 ( 57%)
 7 Wonders.............  played: 14 first:  4 ( 28%), last:  3 ( 21%)
-Dune..................  played: 13 first:  1 (  7%), last:  8 ( 61%)
 Minute Realms.........  played: 12 first:  3 ( 25%), last:  4 ( 33%)
 Libertalia............  played:  9 first:  2 ( 22%), last:  5 ( 55%)
 Brass: Birmingham ....  played:  8 first:  0 (  0%), last:  3 ( 37%)

@@ -166,7 +166,7 @@ struct cGamePositionStat
 {
     int firstCount = 0;
     int lastCount = 0;
-    int score = 0;
+    double score = 0.0;
     int plays = 0;
     int game;
 };
@@ -183,11 +183,15 @@ void printGamesByPlayer()
         {
             auto& result = playerResults[resultIndex];
             auto& stat = positionStats[result.game];
+            auto& match = matches[result.match];
+
             ++stat.plays;
             if (result.position == 1)
                 ++stat.firstCount;
             if (result.isLastPosition)
                 ++stat.lastCount;
+
+            stat.score += static_cast<int>(match.results.size() + 1) - result.position;
         }
 
         sort(positionStats.begin(), positionStats.end(), [](auto& l, auto& r) { return l.plays > r.plays; });
@@ -196,10 +200,11 @@ void printGamesByPlayer()
         for (auto& stat : positionStats)
         {
             printGameNameHeading(stat.game);
-            fprintf(out, "  played: %2d first: %2d (%3d%%), last: %2d (%3d%%)\n",
+            fprintf(out, "  played: %2d first: %2d (%3d%%), last: %2d (%3d%%), avg. score: %.2f\n",
                 stat.plays,
                 stat.firstCount, stat.firstCount * 100 / stat.plays,
-                stat.lastCount, stat.lastCount * 100 / stat.plays);
+                stat.lastCount, stat.lastCount * 100 / stat.plays,
+                stat.score / stat.plays);
         }
         fprintf(out, "\n\n");
 

@@ -1,11 +1,11 @@
-Number of matches: 711
+Number of matches: 715
 -------------------------
 
 Match count by game:
 
 Race for the Galaxy...: 120
-Dune..................: 87
-Floriferous...........: 46
+Dune..................: 88
+Floriferous...........: 48
 Roll for the Galaxy...: 39
 Herbaceous............: 27
 Ra....................: 26
@@ -18,31 +18,31 @@ Citadell..............: 13
 Minute Realms.........: 13
 Isle of Skye..........: 12
 Libertalia............: 12
-Concordia.............: 11
 Imhotep...............: 11
-Little Town...........: 10
+Concordia.............: 11
 Jorvik................: 10
 Klank.................: 10
+Little Town...........: 10
 Nidavellir............: 9
 Kingdoms..............: 9
 Between Two Cities....: 9
+Brutal Kingdom........: 8
 For Sale..............: 8
 Earth.................: 8
-Suburbia..............: 8
 Tiny Towns............: 8
-Brutal Kingdom........: 8
+Suburbia..............: 8
+Tzolk'in..............: 7
 Arboretum.............: 7
 Lost Ruins of Arnak...: 7
-Tzolk'in..............: 7
 Evolution.............: 6
 Tucano................: 5
-Pharaon...............: 4
+Glen More II..........: 5
 Genotype..............: 4
 Francis Drake.........: 4
 Mission: Red Planet...: 4
-Glen More II..........: 4
 Kingdomino............: 4
 Stone Age.............: 4
+Pharaon...............: 4
 Century: Spice Road ..: 3
 Furnace...............: 3
 Love Letter...........: 3
@@ -76,8 +76,8 @@ Hoity Toity...........: 1
 
 --- Marci ---
 Race for the Galaxy...  played: 118 first: 40 ( 33%), last: 18 ( 15%)
-Dune..................  played: 87 first: 31 ( 35%), last: 16 ( 18%)
-Floriferous...........  played: 44 first: 12 ( 27%), last: 18 ( 40%)
+Dune..................  played: 88 first: 31 ( 35%), last: 16 ( 18%)
+Floriferous...........  played: 46 first: 12 ( 26%), last: 20 ( 43%)
 Roll for the Galaxy...  played: 39 first: 19 ( 48%), last:  7 ( 17%)
 Herbaceous............  played: 27 first: 11 ( 40%), last:  7 ( 25%)
 Ra....................  played: 26 first:  6 ( 23%), last:  9 ( 34%)
@@ -90,31 +90,31 @@ Citadell..............  played: 13 first:  1 (  7%), last:  3 ( 23%)
 Minute Realms.........  played: 13 first:  5 ( 38%), last:  2 ( 15%)
 Isle of Skye..........  played: 12 first:  6 ( 50%), last:  2 ( 16%)
 Libertalia............  played: 12 first:  5 ( 41%), last:  1 (  8%)
-Concordia.............  played: 11 first:  2 ( 18%), last:  0 (  0%)
 Imhotep...............  played: 11 first:  7 ( 63%), last:  1 (  9%)
-Little Town...........  played: 10 first:  3 ( 30%), last:  0 (  0%)
+Concordia.............  played: 11 first:  2 ( 18%), last:  0 (  0%)
 Jorvik................  played: 10 first:  3 ( 30%), last:  3 ( 30%)
 Klank.................  played: 10 first:  3 ( 30%), last:  1 ( 10%)
+Little Town...........  played: 10 first:  3 ( 30%), last:  0 (  0%)
 Nidavellir............  played:  9 first:  1 ( 11%), last:  2 ( 22%)
 Kingdoms..............  played:  9 first:  2 ( 22%), last:  5 ( 55%)
 Between Two Cities....  played:  9 first:  4 ( 44%), last:  5 ( 55%)
+Brutal Kingdom........  played:  8 first:  5 ( 62%), last:  2 ( 25%)
 For Sale..............  played:  8 first:  1 ( 12%), last:  5 ( 62%)
 Earth.................  played:  8 first:  1 ( 12%), last:  3 ( 37%)
-Suburbia..............  played:  8 first:  4 ( 50%), last:  1 ( 12%)
 Tiny Towns............  played:  8 first:  3 ( 37%), last:  3 ( 37%)
-Brutal Kingdom........  played:  8 first:  5 ( 62%), last:  2 ( 25%)
+Suburbia..............  played:  8 first:  4 ( 50%), last:  1 ( 12%)
+Tzolk'in..............  played:  7 first:  2 ( 28%), last:  1 ( 14%)
 Arboretum.............  played:  7 first:  4 ( 57%), last:  1 ( 14%)
 Lost Ruins of Arnak...  played:  7 first:  3 ( 42%), last:  4 ( 57%)
-Tzolk'in..............  played:  7 first:  2 ( 28%), last:  1 ( 14%)
 Evolution.............  played:  6 first:  0 (  0%), last:  3 ( 50%)
 Tucano................  played:  5 first:  1 ( 20%), last:  2 ( 40%)
-Pharaon...............  played:  4 first:  2 ( 50%), last:  1 ( 25%)
+Glen More II..........  played:  5 first:  0 (  0%), last:  3 ( 60%)
 Genotype..............  played:  4 first:  2 ( 50%), last:  2 ( 50%)
 Francis Drake.........  played:  4 first:  1 ( 25%), last:  1 ( 25%)
 Mission: Red Planet...  played:  4 first:  1 ( 25%), last:  1 ( 25%)
-Glen More II..........  played:  4 first:  0 (  0%), last:  2 ( 50%)
 Kingdomino............  played:  4 first:  3 ( 75%), last:  0 (  0%)
 Stone Age.............  played:  4 first:  0 (  0%), last:  1 ( 25%)
+Pharaon...............  played:  4 first:  2 ( 50%), last:  1 ( 25%)
 Century: Spice Road ..  played:  3 first:  0 (  0%), last:  1 ( 33%)
 Furnace...............  played:  3 first:  2 ( 66%), last:  1 ( 33%)
 Love Letter...........  played:  3 first:  2 ( 66%), last:  0 (  0%)
@@ -143,8 +143,8 @@ Hoity Toity...........  played:  1 first:  1 (100%), last:  0 (  0%)
 
 --- Évi ---
 Race for the Galaxy...  played: 90 first: 14 ( 15%), last: 38 ( 42%)
-Dune..................  played: 79 first: 11 ( 13%), last: 35 ( 44%)
-Floriferous...........  played: 38 first: 10 ( 26%), last:  7 ( 18%)
+Dune..................  played: 80 first: 12 ( 15%), last: 35 ( 43%)
+Floriferous...........  played: 40 first: 11 ( 27%), last:  7 ( 17%)
 Roll for the Galaxy...  played: 29 first:  2 (  6%), last: 16 ( 55%)
 Herbaceous............  played: 23 first:  5 ( 21%), last:  8 ( 34%)
 7 Wonders.............  played: 18 first:  3 ( 16%), last:  6 ( 33%)
@@ -182,12 +182,12 @@ Furnace...............  played:  3 first:  1 ( 33%), last:  1 ( 33%)
 For Sale..............  played:  3 first:  2 ( 66%), last:  0 (  0%)
 Cacao.................  played:  3 first:  0 (  0%), last:  3 (100%)
 Orleans...............  played:  3 first:  1 ( 33%), last:  0 (  0%)
+Glen More II..........  played:  3 first:  1 ( 33%), last:  1 ( 33%)
 Sheriff of Nottingham.  played:  2 first:  1 ( 50%), last:  0 (  0%)
 Pharaon...............  played:  2 first:  0 (  0%), last:  2 (100%)
 The whatnot cabinet...  played:  2 first:  0 (  0%), last:  0 (  0%)
 Blokus................  played:  2 first:  1 ( 50%), last:  1 ( 50%)
 Taj Mahal.............  played:  2 first:  1 ( 50%), last:  1 ( 50%)
-Glen More II..........  played:  2 first:  0 (  0%), last:  1 ( 50%)
 Cytosis...............  played:  2 first:  0 (  0%), last:  0 (  0%)
 Small World...........  played:  2 first:  0 (  0%), last:  1 ( 50%)
 Amun Re the card game.  played:  2 first:  0 (  0%), last:  0 (  0%)
@@ -202,7 +202,7 @@ Takenoko..............  played:  1 first:  0 (  0%), last:  1 (100%)
 
 
 --- Gyuri ---
-Dune..................  played: 70 first: 39 ( 55%), last:  5 (  7%)
+Dune..................  played: 71 first: 39 ( 54%), last:  6 (  8%)
 Race for the Galaxy...  played: 66 first: 36 ( 54%), last: 10 ( 15%)
 Roll for the Galaxy...  played: 29 first: 13 ( 44%), last:  2 (  6%)
 Floriferous...........  played: 17 first:  2 ( 11%), last:  2 ( 11%)
@@ -389,11 +389,11 @@ Minute Realms.........  played: 12 first:  3 ( 25%), last:  4 ( 33%)
 Libertalia............  played:  9 first:  2 ( 22%), last:  5 ( 55%)
 Kingdoms..............  played:  8 first:  1 ( 12%), last:  2 ( 25%)
 Brass: Birmingham ....  played:  8 first:  0 (  0%), last:  3 ( 37%)
+Floriferous...........  played:  7 first:  4 ( 57%), last:  1 ( 14%)
 Suburbia..............  played:  5 first:  1 ( 20%), last:  2 ( 40%)
 Citadell..............  played:  5 first:  0 (  0%), last:  2 ( 40%)
 Imhotep...............  played:  5 first:  0 (  0%), last:  5 (100%)
 Klank.................  played:  5 first:  2 ( 40%), last:  1 ( 20%)
-Floriferous...........  played:  5 first:  3 ( 60%), last:  1 ( 20%)
 Azul..................  played:  5 first:  0 (  0%), last:  2 ( 40%)
 Isle of Skye..........  played:  4 first:  0 (  0%), last:  1 ( 25%)
 Stone Age.............  played:  4 first:  3 ( 75%), last:  0 (  0%)
@@ -406,15 +406,15 @@ Roll for the Galaxy...  played:  4 first:  1 ( 25%), last:  2 ( 50%)
 For Sale..............  played:  3 first:  0 (  0%), last:  1 ( 33%)
 Earth.................  played:  3 first:  1 ( 33%), last:  1 ( 33%)
 Francis Drake.........  played:  3 first:  0 (  0%), last:  1 ( 33%)
+Glen More II..........  played:  3 first:  0 (  0%), last:  0 (  0%)
 Tzolk'in..............  played:  2 first:  0 (  0%), last:  2 (100%)
-Glen More II..........  played:  2 first:  0 (  0%), last:  0 (  0%)
+Brutal Kingdom........  played:  2 first:  2 (100%), last:  0 (  0%)
 Pharaon...............  played:  2 first:  0 (  0%), last:  1 ( 50%)
 Small World...........  played:  2 first:  0 (  0%), last:  1 ( 50%)
 Taj Mahal.............  played:  2 first:  0 (  0%), last:  1 ( 50%)
 Kingdomino............  played:  2 first:  0 (  0%), last:  1 ( 50%)
 Lost Ruins of Arnak...  played:  2 first:  0 (  0%), last:  1 ( 50%)
 Herbaceous............  played:  2 first:  1 ( 50%), last:  1 ( 50%)
-Brutal Kingdom........  played:  2 first:  2 (100%), last:  0 (  0%)
 Cacao.................  played:  2 first:  1 ( 50%), last:  0 (  0%)
 Little Town...........  played:  2 first:  0 (  0%), last:  0 (  0%)
 Concordia.............  played:  1 first:  0 (  0%), last:  1 (100%)

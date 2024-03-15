@@ -1,4 +1,4 @@
-Number of matches: 781
+Number of matches: 788
 -------------------------
 
 Match count by game:
@@ -9,11 +9,11 @@ Floriferous...........: 59
 Roll for the Galaxy...: 39
 Herbaceous............: 29
 Ra....................: 26
+Dune: Uprising........: 26
 Cascadia..............: 23
 Azul..................: 21
 Brass: Birmingham ....: 20
 7 Wonders.............: 19
-Dune: Uprising........: 19
 Meadow................: 16
 Citadell..............: 13
 Libertalia............: 13
@@ -84,11 +84,11 @@ Floriferous...........  played: 57 first: 15 ( 26%), last: 23 ( 40%), avg. score
 Roll for the Galaxy...  played: 39 first: 19 ( 48%), last:  7 ( 17%), avg. score: 2.62
 Herbaceous............  played: 29 first: 11 ( 37%), last:  7 ( 24%), avg. score: 2.69
 Ra....................  played: 26 first:  6 ( 23%), last:  9 ( 34%), avg. score: 2.35
+Dune: Uprising........  played: 26 first: 12 ( 46%), last:  6 ( 23%), avg. score: 2.58
 Cascadia..............  played: 23 first:  5 ( 21%), last:  3 ( 13%), avg. score: 2.43
 Azul..................  played: 21 first:  4 ( 19%), last:  7 ( 33%), avg. score: 2.29
 Brass: Birmingham ....  played: 20 first: 12 ( 60%), last:  3 ( 15%), avg. score: 2.80
 7 Wonders.............  played: 19 first:  6 ( 31%), last:  4 ( 21%), avg. score: 2.68
-Dune: Uprising........  played: 19 first:  9 ( 47%), last:  5 ( 26%), avg. score: 2.68
 Meadow................  played: 15 first:  6 ( 40%), last:  5 ( 33%), avg. score: 2.40
 Citadell..............  played: 13 first:  1 (  7%), last:  3 ( 23%), avg. score: 3.00
 Libertalia............  played: 13 first:  5 ( 38%), last:  2 ( 15%), avg. score: 2.46
@@ -152,10 +152,10 @@ Race for the Galaxy...  played: 94 first: 15 ( 15%), last: 39 ( 41%), avg. score
 Dune..................  played: 89 first: 13 ( 14%), last: 40 ( 44%), avg. score: 1.82
 Floriferous...........  played: 51 first: 16 ( 31%), last: 10 ( 19%), avg. score: 2.29
 Roll for the Galaxy...  played: 29 first:  2 (  6%), last: 16 ( 55%), avg. score: 1.66
+Dune: Uprising........  played: 25 first:  2 (  8%), last: 13 ( 52%), avg. score: 1.72
 Herbaceous............  played: 25 first:  7 ( 28%), last:  8 ( 32%), avg. score: 2.28
 Cascadia..............  played: 19 first:  6 ( 31%), last:  6 ( 31%), avg. score: 2.26
 7 Wonders.............  played: 18 first:  3 ( 16%), last:  6 ( 33%), avg. score: 2.28
-Dune: Uprising........  played: 18 first:  2 ( 11%), last:  8 ( 44%), avg. score: 1.89
 Azul..................  played: 18 first:  7 ( 38%), last:  5 ( 27%), avg. score: 2.50
 Brass: Birmingham ....  played: 17 first:  3 ( 17%), last:  6 ( 35%), avg. score: 2.00
 Meadow................  played: 15 first:  5 ( 33%), last:  6 ( 40%), avg. score: 2.20
@@ -315,9 +315,9 @@ Cascadia..............  played:  1 first:  0 (  0%), last:  0 (  0%), avg. score
 Race for the Galaxy...  played: 101 first: 30 ( 29%), last: 29 ( 28%), avg. score: 2.31
 Dune..................  played: 44 first:  6 ( 13%), last: 14 ( 31%), avg. score: 2.14
 Floriferous...........  played: 27 first:  6 ( 22%), last: 12 ( 44%), avg. score: 2.04
+Dune: Uprising........  played: 26 first: 11 ( 42%), last:  3 ( 11%), avg. score: 2.54
 Ra....................  played: 25 first: 10 ( 40%), last:  4 ( 16%), avg. score: 3.00
 Roll for the Galaxy...  played: 23 first:  3 ( 13%), last:  8 ( 34%), avg. score: 2.13
-Dune: Uprising........  played: 19 first:  7 ( 36%), last:  2 ( 10%), avg. score: 2.58
 Citadell..............  played: 13 first:  5 ( 38%), last:  3 ( 23%), avg. score: 3.15
 Brass: Birmingham ....  played: 13 first:  4 ( 30%), last:  4 ( 30%), avg. score: 2.31
 7 Wonders.............  played: 11 first:  2 ( 18%), last:  3 ( 27%), avg. score: 2.73

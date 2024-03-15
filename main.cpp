@@ -27,7 +27,6 @@ using namespace std::string_literals;
 #define ALL(cont) cont.begin(), cont.end()
 #define FOR(var, max_value) for(int var=0;var<max_value;++var)
 
-
 class cStringVector : public std::vector<std::string>
 {
 public:
@@ -271,4 +270,6 @@ void main()
 
     printMatchCountByGame();
     printGamesByPlayer();
+    printPlayerVSPlayerStats();
+    fclose(out);
 }

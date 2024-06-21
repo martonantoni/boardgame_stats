@@ -1,4 +1,4 @@
-Number of matches: 812
+Number of matches: 819
 -------------------------
 
 Match count by game:
@@ -6,7 +6,7 @@ Match count by game:
 Race for the Galaxy...: 126
 Dune..................: 97
 Floriferous...........: 60
-Dune: Uprising........: 41
+Dune: Uprising........: 48
 Roll for the Galaxy...: 39
 Herbaceous............: 29
 Ra....................: 26
@@ -83,7 +83,7 @@ Dice Forge............: 1
 Race for the Galaxy...  played: 124 first: 42 ( 33%), last: 21 ( 16%), avg. score: 2.52
 Dune..................  played: 97 first: 34 ( 35%), last: 18 ( 18%), avg. score: 2.47
 Floriferous...........  played: 58 first: 15 ( 25%), last: 24 ( 41%), avg. score: 1.95
-Dune: Uprising........  played: 41 first: 19 ( 46%), last:  8 ( 19%), avg. score: 2.49
+Dune: Uprising........  played: 48 first: 23 ( 47%), last:  9 ( 18%), avg. score: 2.48
 Roll for the Galaxy...  played: 39 first: 19 ( 48%), last:  7 ( 17%), avg. score: 2.62
 Herbaceous............  played: 29 first: 11 ( 37%), last:  7 ( 24%), avg. score: 2.69
 Ra....................  played: 26 first:  6 ( 23%), last:  9 ( 34%), avg. score: 2.35
@@ -155,7 +155,7 @@ Callisto..............  played:  1 first:  0 (  0%), last:  1 (100%), avg. score
 Race for the Galaxy...  played: 94 first: 15 ( 15%), last: 39 ( 41%), avg. score: 1.86
 Dune..................  played: 89 first: 13 ( 14%), last: 40 ( 44%), avg. score: 1.82
 Floriferous...........  played: 52 first: 16 ( 30%), last: 10 ( 19%), avg. score: 2.29
-Dune: Uprising........  played: 40 first:  4 ( 10%), last: 21 ( 52%), avg. score: 1.68
+Dune: Uprising........  played: 47 first:  4 (  8%), last: 27 ( 57%), avg. score: 1.60
 Roll for the Galaxy...  played: 29 first:  2 (  6%), last: 16 ( 55%), avg. score: 1.66
 Herbaceous............  played: 25 first:  7 ( 28%), last:  8 ( 32%), avg. score: 2.28
 Cascadia..............  played: 19 first:  6 ( 31%), last:  6 ( 31%), avg. score: 2.26
@@ -218,8 +218,8 @@ Cat Lady..............  played:  1 first:  1 (100%), last:  0 (  0%), avg. score
 
 --- Zsolt ---
 Race for the Galaxy...  played: 101 first: 30 ( 29%), last: 29 ( 28%), avg. score: 2.31
+Dune: Uprising........  played: 48 first: 20 ( 41%), last:  8 ( 16%), avg. score: 2.38
 Dune..................  played: 44 first:  6 ( 13%), last: 14 ( 31%), avg. score: 2.14
-Dune: Uprising........  played: 41 first: 17 ( 41%), last:  8 ( 19%), avg. score: 2.37
 Floriferous...........  played: 28 first:  7 ( 25%), last: 12 ( 42%), avg. score: 2.11
 Ra....................  played: 25 first: 10 ( 40%), last:  4 ( 16%), avg. score: 3.00
 Roll for the Galaxy...  played: 23 first:  3 ( 13%), last:  8 ( 34%), avg. score: 2.13

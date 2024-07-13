@@ -1,5 +1,9 @@
 Number of games: 46
 
+ 7 turns: 1 games
+ 8 turns: 16 games
+ 9 turns: 21 games
+10 turns: 8 games
 
 ----- PLAYERS -----
 -- Zsolt --
@@ -7,16 +11,22 @@ wins: 22 ( 47%), avg. points: 10.17
   - in position 1 played 14 wins:  8 ( 57%), avg. points: 10.14
   - in position 2 played 17 wins: 10 ( 58%), avg. points: 10.88
   - in position 3 played 15 wins:  4 ( 26%), avg. points: 9.40
+  - after Evi   played 31 wins: 14 ( 45%), avg. points: 10.00
+  - after Marci played 15 wins:  8 ( 53%), avg. points: 10.53
 -- Marci --
 wins: 21 ( 45%), avg. points: 10.11
   - in position 1 played 13 wins:  5 ( 38%), avg. points: 10.08
   - in position 2 played 18 wins: 11 ( 61%), avg. points: 10.50
   - in position 3 played 15 wins:  5 ( 33%), avg. points: 9.67
+  - after Zsolt played 31 wins: 15 ( 48%), avg. points: 9.94
+  - after Evi   played 15 wins:  6 ( 40%), avg. points: 10.47
 -- Evi --
 wins:  3 (  6%), avg. points: 8.43
   - in position 1 played 19 wins:  2 ( 10%), avg. points: 9.11
   - in position 2 played 11 wins:  1 (  9%), avg. points: 8.91
   - in position 3 played 16 wins:  0 (  0%), avg. points: 7.31
+  - after Marci played 31 wins:  2 (  6%), avg. points: 8.16
+  - after Zsolt played 15 wins:  1 (  6%), avg. points: 9.00
 
 
 
@@ -30,6 +40,19 @@ Gurney   picked 19 times, wins: 10 ( 52%), avg. points: 10.58
 Staban   picked 13 times, wins:  5 ( 38%), avg. points: 10.15
 Amber    picked  5 times, wins:  1 ( 20%), avg. points: 9.00
 Margot   picked 13 times, wins:  2 ( 15%), avg. points: 8.92
+
+
+
+----- LEADERS (all) -----
+Shaddam  picked  3 times, wins:  2 ( 66%), avg. points: 10.67
+Muad'Dib picked 11 times, wins:  6 ( 54%), avg. points: 10.91
+Jessica  picked  8 times, wins:  4 ( 50%), avg. points: 9.88
+Gurney   picked 27 times, wins: 11 ( 40%), avg. points: 9.96
+Feyd     picked 21 times, wins:  8 ( 38%), avg. points: 9.29
+Irulan   picked 16 times, wins:  6 ( 37%), avg. points: 9.31
+Staban   picked 16 times, wins:  5 ( 31%), avg. points: 9.81
+Margot   picked 24 times, wins:  3 ( 12%), avg. points: 8.92
+Amber    picked 12 times, wins:  1 (  8%), avg. points: 8.83
 
 
 

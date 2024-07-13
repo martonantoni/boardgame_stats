@@ -50,6 +50,7 @@ struct cPlayer
 {
     cPerformance mPerformance;
     std::array<cPerformance, 3> mPerformanceByPosition;
+    std::unordered_map<std::string, cPerformance> mAfterPlayer;
     std::unordered_map<std::string, cPerformance> mLeaders;
 };
 
@@ -121,9 +122,10 @@ void uprising()
             player.mLeader = fields[2 + playerIdx * 5];
             player.mPlace = std::stoi(fields[3 + playerIdx * 5]);
             player.mPoints = fields[4 + playerIdx * 5].empty() ? 0 : std::stoi(fields[4 + playerIdx * 5]);
-            player.mWorms = fields[5 + playerIdx * 5] == "yes";
+            player.mWorms = fields[5 + playerIdx * 5] != "no";  // if field is not set, assume "yes"
             game.mGamePoints += player.mPoints;
         }
+        game.mTurns = std::stoi(fields[21]);
     }
 
     games.erase(std::remove_if(games.begin(), games.end(), [](const cGame& game) 
@@ -171,12 +173,39 @@ void uprising()
             {
                 playerData.mLeaders[player.mLeader].mLosses++;
             }
+
+            auto& previousPlayer = game.mPlayers[(positionIdx + 2) % 3].mName;
+            auto& afterPlayerData = playerData.mAfterPlayer[previousPlayer];
+            afterPlayerData.mPlays++;
+            afterPlayerData.mPoints += player.mPoints;
+            afterPlayerData.mGamePoints += game.mGamePoints;
+            if (player.mPlace == 1)
+            {
+                afterPlayerData.mWins++;
+            }
+            else if (player.mPlace == 3)
+            {
+                afterPlayerData.mLosses++;
+            }
         }
     }
 
-    std::print(out, "Number of games: {}\n\n\n", games.size());
+    std::print(out, "Number of games: {}\n\n", games.size());
 
-    std::print(out, "----- PLAYERS -----\n");
+    std::vector<int> gameLengths(11, 0);
+    for (auto& game : games)
+    {
+        gameLengths[game.mTurns]++;
+    }
+    for(auto&& [gameLength, count]: std::views::enumerate(gameLengths))
+    {
+        if(count == 0)
+            continue;
+        std::print(out, "{:2} turns: {} games\n", gameLength, count);
+    }
+    
+
+    std::print(out, "\n----- PLAYERS -----\n");
     for (auto&& [playerName, playerData] : players)
     {
         std::print(out, "-- {} --\n", playerName);
@@ -185,10 +214,17 @@ void uprising()
         {
             std::print(out, "  - in position {} played {} {}\n", positionIdx + 1, positionData.mPlays, positionData.toString());
         }
+        for(auto&& [previousPlayer, afterPlayerData]: playerData.mAfterPlayer)
+        {
+            std::print(out, "  - after {:5} played {} {}\n", previousPlayer, afterPlayerData.mPlays, afterPlayerData.toString());
+        }
     }
 
     std::print(out, "\n\n\n----- LEADERS (Zsolt, Marci) -----\n");
     printLeadersStats(out, { "Zsolt", "Marci" });
+
+    std::print(out, "\n\n\n----- LEADERS (all) -----\n");
+    printLeadersStats(out, { "Zsolt", "Marci", "Evi" });
 
     std::print(out, "\n\n\n----- LEADERS (Evi) -----\n");
     printLeadersStats(out, { "Evi" });

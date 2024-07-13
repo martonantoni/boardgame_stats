@@ -1,15 +1,15 @@
-Number of matches: 819
+Number of matches: 836
 -------------------------
 
 Match count by game:
 
-Race for the Galaxy...: 126
+Race for the Galaxy...: 130
 Dune..................: 97
 Floriferous...........: 60
-Dune: Uprising........: 48
+Dune: Uprising........: 59
 Roll for the Galaxy...: 39
 Herbaceous............: 29
-Ra....................: 26
+Ra....................: 27
 Cascadia..............: 23
 Azul..................: 21
 Brass: Birmingham ....: 20
@@ -36,11 +36,11 @@ Brutal Kingdom........: 8
 Tzolk'in..............: 7
 Lost Ruins of Arnak...: 7
 Evolution.............: 6
+Harmonies.............: 6
 Startups..............: 6
 Stone Age.............: 5
 Tucano................: 5
 Glen More II..........: 5
-Harmonies.............: 5
 Kingdomino............: 5
 Francis Drake.........: 4
 Pharaon...............: 4
@@ -80,13 +80,13 @@ Dice Forge............: 1
 -=#=- Player statistics -=#=-
 
 --- Marci ---
-Race for the Galaxy...  played: 124 first: 42 ( 33%), last: 21 ( 16%), avg. score: 2.52
+Race for the Galaxy...  played: 128 first: 45 ( 35%), last: 22 ( 17%), avg. score: 2.52
 Dune..................  played: 97 first: 34 ( 35%), last: 18 ( 18%), avg. score: 2.47
+Dune: Uprising........  played: 59 first: 28 ( 47%), last: 12 ( 20%), avg. score: 2.42
 Floriferous...........  played: 58 first: 15 ( 25%), last: 24 ( 41%), avg. score: 1.95
-Dune: Uprising........  played: 48 first: 23 ( 47%), last:  9 ( 18%), avg. score: 2.48
 Roll for the Galaxy...  played: 39 first: 19 ( 48%), last:  7 ( 17%), avg. score: 2.62
 Herbaceous............  played: 29 first: 11 ( 37%), last:  7 ( 24%), avg. score: 2.69
-Ra....................  played: 26 first:  6 ( 23%), last:  9 ( 34%), avg. score: 2.35
+Ra....................  played: 27 first:  7 ( 25%), last:  9 ( 33%), avg. score: 2.37
 Cascadia..............  played: 23 first:  5 ( 21%), last:  3 ( 13%), avg. score: 2.43
 Azul..................  played: 21 first:  4 ( 19%), last:  7 ( 33%), avg. score: 2.29
 Brass: Birmingham ....  played: 20 first: 12 ( 60%), last:  3 ( 15%), avg. score: 2.80
@@ -117,12 +117,12 @@ Startups..............  played:  6 first:  1 ( 16%), last:  3 ( 50%), avg. score
 Stone Age.............  played:  5 first:  1 ( 20%), last:  1 ( 20%), avg. score: 2.40
 Tucano................  played:  5 first:  1 ( 20%), last:  2 ( 40%), avg. score: 2.40
 Glen More II..........  played:  5 first:  0 (  0%), last:  3 ( 60%), avg. score: 1.60
+Harmonies.............  played:  5 first:  1 ( 20%), last:  0 (  0%), avg. score: 2.80
 Kingdomino............  played:  5 first:  3 ( 60%), last:  1 ( 20%), avg. score: 2.80
 Francis Drake.........  played:  4 first:  1 ( 25%), last:  1 ( 25%), avg. score: 2.75
 Pharaon...............  played:  4 first:  2 ( 50%), last:  1 ( 25%), avg. score: 2.25
 Mission: Red Planet...  played:  4 first:  1 ( 25%), last:  1 ( 25%), avg. score: 2.25
 Genotype..............  played:  4 first:  2 ( 50%), last:  2 ( 50%), avg. score: 2.50
-Harmonies.............  played:  4 first:  0 (  0%), last:  0 (  0%), avg. score: 2.50
 Orleans...............  played:  3 first:  1 ( 33%), last:  1 ( 33%), avg. score: 2.00
 Furnace...............  played:  3 first:  2 ( 66%), last:  1 ( 33%), avg. score: 2.67
 Cacao.................  played:  3 first:  2 ( 66%), last:  0 (  0%), avg. score: 3.00
@@ -154,8 +154,8 @@ Callisto..............  played:  1 first:  0 (  0%), last:  1 (100%), avg. score
 --- Évi ---
 Race for the Galaxy...  played: 94 first: 15 ( 15%), last: 39 ( 41%), avg. score: 1.86
 Dune..................  played: 89 first: 13 ( 14%), last: 40 ( 44%), avg. score: 1.82
+Dune: Uprising........  played: 58 first:  4 (  6%), last: 34 ( 58%), avg. score: 1.55
 Floriferous...........  played: 52 first: 16 ( 30%), last: 10 ( 19%), avg. score: 2.29
-Dune: Uprising........  played: 47 first:  4 (  8%), last: 27 ( 57%), avg. score: 1.60
 Roll for the Galaxy...  played: 29 first:  2 (  6%), last: 16 ( 55%), avg. score: 1.66
 Herbaceous............  played: 25 first:  7 ( 28%), last:  8 ( 32%), avg. score: 2.28
 Cascadia..............  played: 19 first:  6 ( 31%), last:  6 ( 31%), avg. score: 2.26
@@ -163,7 +163,7 @@ Cascadia..............  played: 19 first:  6 ( 31%), last:  6 ( 31%), avg. score
 Azul..................  played: 18 first:  7 ( 38%), last:  5 ( 27%), avg. score: 2.50
 Brass: Birmingham ....  played: 17 first:  3 ( 17%), last:  6 ( 35%), avg. score: 2.00
 Meadow................  played: 15 first:  5 ( 33%), last:  6 ( 40%), avg. score: 2.20
-Ra....................  played: 13 first:  4 ( 30%), last:  6 ( 46%), avg. score: 2.54
+Ra....................  played: 14 first:  4 ( 28%), last:  7 ( 50%), avg. score: 2.43
 Libertalia............  played: 13 first:  6 ( 46%), last:  2 ( 15%), avg. score: 2.69
 Minute Realms.........  played: 13 first:  3 ( 23%), last:  5 ( 38%), avg. score: 2.15
 Citadell..............  played: 12 first:  3 ( 25%), last:  2 ( 16%), avg. score: 3.50
@@ -179,12 +179,12 @@ Brutal Kingdom........  played:  7 first:  1 ( 14%), last:  3 ( 42%), avg. score
 Suburbia..............  played:  7 first:  1 ( 14%), last:  3 ( 42%), avg. score: 2.00
 Lost Ruins of Arnak...  played:  7 first:  2 ( 28%), last:  1 ( 14%), avg. score: 2.14
 Tzolk'in..............  played:  6 first:  1 ( 16%), last:  1 ( 16%), avg. score: 2.50
-Evolution.............  played:  6 first:  1 ( 16%), last:  1 ( 16%), avg. score: 2.50
 Nidavellir............  played:  6 first:  2 ( 33%), last:  0 (  0%), avg. score: 3.67
+Harmonies.............  played:  6 first:  1 ( 16%), last:  2 ( 33%), avg. score: 2.00
 Startups..............  played:  6 first:  1 ( 16%), last:  0 (  0%), avg. score: 2.17
-Harmonies.............  played:  5 first:  1 ( 20%), last:  2 ( 40%), avg. score: 1.80
-Stone Age.............  played:  5 first:  1 ( 20%), last:  2 ( 40%), avg. score: 2.00
+Evolution.............  played:  6 first:  1 ( 16%), last:  1 ( 16%), avg. score: 2.50
 Little Town...........  played:  5 first:  1 ( 20%), last:  2 ( 40%), avg. score: 2.20
+Stone Age.............  played:  5 first:  1 ( 20%), last:  2 ( 40%), avg. score: 2.00
 Tucano................  played:  5 first:  1 ( 20%), last:  2 ( 40%), avg. score: 2.00
 Kingdomino............  played:  5 first:  0 (  0%), last:  2 ( 40%), avg. score: 1.60
 Francis Drake.........  played:  4 first:  1 ( 25%), last:  1 ( 25%), avg. score: 2.25
@@ -217,11 +217,11 @@ Cat Lady..............  played:  1 first:  1 (100%), last:  0 (  0%), avg. score
 
 
 --- Zsolt ---
-Race for the Galaxy...  played: 101 first: 30 ( 29%), last: 29 ( 28%), avg. score: 2.31
-Dune: Uprising........  played: 48 first: 20 ( 41%), last:  8 ( 16%), avg. score: 2.38
+Race for the Galaxy...  played: 105 first: 30 ( 28%), last: 30 ( 28%), avg. score: 2.29
+Dune: Uprising........  played: 59 first: 26 ( 44%), last:  9 ( 15%), avg. score: 2.39
 Dune..................  played: 44 first:  6 ( 13%), last: 14 ( 31%), avg. score: 2.14
 Floriferous...........  played: 28 first:  7 ( 25%), last: 12 ( 42%), avg. score: 2.11
-Ra....................  played: 25 first: 10 ( 40%), last:  4 ( 16%), avg. score: 3.00
+Ra....................  played: 26 first: 10 ( 38%), last:  4 ( 15%), avg. score: 2.96
 Roll for the Galaxy...  played: 23 first:  3 ( 13%), last:  8 ( 34%), avg. score: 2.13
 Citadell..............  played: 13 first:  5 ( 38%), last:  3 ( 23%), avg. score: 3.15
 Brass: Birmingham ....  played: 13 first:  4 ( 30%), last:  4 ( 30%), avg. score: 2.31
@@ -338,7 +338,7 @@ Dice Forge............  played:  1 first:  0 (  0%), last:  0 (  0%), avg. score
 
 --- Gyuri ---
 Dune..................  played: 79 first: 42 ( 53%), last:  8 ( 10%), avg. score: 2.87
-Race for the Galaxy...  played: 72 first: 37 ( 51%), last: 10 ( 13%), avg. score: 3.03
+Race for the Galaxy...  played: 76 first: 38 ( 50%), last: 11 ( 14%), avg. score: 2.99
 Roll for the Galaxy...  played: 29 first: 13 ( 44%), last:  2 (  6%), avg. score: 2.69
 Floriferous...........  played: 17 first:  2 ( 11%), last:  2 ( 11%), avg. score: 2.29
 Citadell..............  played: 13 first:  1 (  7%), last:  4 ( 30%), avg. score: 2.69
@@ -391,44 +391,44 @@ Harmonies.............  played:  1 first:  0 (  0%), last:  1 (100%), avg. score
 
 
 --- Judit ---
-Race for the Galaxy...  played: 39 first:  1 (  2%), last: 18 ( 46%), avg. score: 1.92
+Race for the Galaxy...  played: 40 first:  1 (  2%), last: 19 ( 47%), avg. score: 1.90
 Floriferous...........  played: 27 first: 11 ( 40%), last:  8 ( 29%), avg. score: 2.37
 Herbaceous............  played: 15 first:  6 ( 40%), last:  4 ( 26%), avg. score: 2.80
-Meadow................  played: 14 first:  4 ( 28%), last:  4 ( 28%), avg. score: 2.21
 Dune..................  played: 14 first:  0 (  0%), last:  9 ( 64%), avg. score: 1.43
+Meadow................  played: 14 first:  4 ( 28%), last:  4 ( 28%), avg. score: 2.21
 Concordia.............  played: 10 first:  0 (  0%), last:  5 ( 50%), avg. score: 1.70
 Ra....................  played:  9 first:  2 ( 22%), last:  1 ( 11%), avg. score: 2.67
-Azul..................  played:  8 first:  1 ( 12%), last:  3 ( 37%), avg. score: 1.75
 Cascadia..............  played:  8 first:  1 ( 12%), last:  4 ( 50%), avg. score: 1.62
 Roll for the Galaxy...  played:  8 first:  1 ( 12%), last:  5 ( 62%), avg. score: 1.75
+Azul..................  played:  8 first:  1 ( 12%), last:  3 ( 37%), avg. score: 1.75
 Citadell..............  played:  6 first:  3 ( 50%), last:  0 (  0%), avg. score: 4.17
 Nidavellir............  played:  5 first:  0 (  0%), last:  3 ( 60%), avg. score: 1.80
-Earth.................  played:  5 first:  0 (  0%), last:  2 ( 40%), avg. score: 2.60
 Little Town...........  played:  5 first:  2 ( 40%), last:  1 ( 20%), avg. score: 2.40
-For Sale..............  played:  5 first:  1 ( 20%), last:  0 (  0%), avg. score: 3.40
 Brass: Birmingham ....  played:  5 first:  0 (  0%), last:  2 ( 40%), avg. score: 1.60
+For Sale..............  played:  5 first:  1 ( 20%), last:  0 (  0%), avg. score: 3.40
+Earth.................  played:  5 first:  0 (  0%), last:  2 ( 40%), avg. score: 2.60
+Arboretum.............  played:  4 first:  0 (  0%), last:  4 (100%), avg. score: 1.25
+Harmonies.............  played:  4 first:  1 ( 25%), last:  2 ( 50%), avg. score: 2.25
 Isle of Skye..........  played:  4 first:  0 (  0%), last:  1 ( 25%), avg. score: 2.75
-7 Wonders.............  played:  4 first:  1 ( 25%), last:  3 ( 75%), avg. score: 2.25
 Klank.................  played:  4 first:  2 ( 50%), last:  1 ( 25%), avg. score: 3.00
 Jorvik................  played:  4 first:  1 ( 25%), last:  2 ( 50%), avg. score: 2.00
-Arboretum.............  played:  4 first:  0 (  0%), last:  4 (100%), avg. score: 1.25
+7 Wonders.............  played:  4 first:  1 ( 25%), last:  3 ( 75%), avg. score: 2.25
 Imhotep...............  played:  3 first:  0 (  0%), last:  0 (  0%), avg. score: 2.00
-Brutal Kingdom........  played:  3 first:  0 (  0%), last:  2 ( 66%), avg. score: 2.00
-Harmonies.............  played:  3 first:  1 ( 33%), last:  1 ( 33%), avg. score: 2.67
-Century: Spice Road ..  played:  3 first:  0 (  0%), last:  2 ( 66%), avg. score: 1.67
 Evolution.............  played:  3 first:  0 (  0%), last:  2 ( 66%), avg. score: 1.33
+Century: Spice Road ..  played:  3 first:  0 (  0%), last:  2 ( 66%), avg. score: 1.67
+Brutal Kingdom........  played:  3 first:  0 (  0%), last:  2 ( 66%), avg. score: 2.00
 Genotype..............  played:  2 first:  0 (  0%), last:  1 ( 50%), avg. score: 2.00
-Between Two Cities....  played:  2 first:  1 ( 50%), last:  0 (  0%), avg. score: 5.50
 Amun Re the card game.  played:  2 first:  0 (  0%), last:  1 ( 50%), avg. score: 2.00
+Between Two Cities....  played:  2 first:  1 ( 50%), last:  0 (  0%), avg. score: 5.50
 Tzolk'in..............  played:  1 first:  0 (  0%), last:  1 (100%), avg. score: 1.00
-Hoity Toity...........  played:  1 first:  0 (  0%), last:  0 (  0%), avg. score: 3.00
 Cytosis...............  played:  1 first:  0 (  0%), last:  1 (100%), avg. score: 1.00
+Hoity Toity...........  played:  1 first:  0 (  0%), last:  0 (  0%), avg. score: 3.00
 Cacao.................  played:  1 first:  0 (  0%), last:  0 (  0%), avg. score: 2.00
 Dice Forge............  played:  1 first:  0 (  0%), last:  0 (  0%), avg. score: 2.00
 
 
 --- Zsófi ---
-Harmonies.............  played:  3 first:  2 ( 66%), last:  0 (  0%), avg. score: 3.33
+Harmonies.............  played:  4 first:  2 ( 50%), last:  0 (  0%), avg. score: 3.00
 
 
 --- Boti ---

@@ -17,83 +17,14 @@
 #include <unordered_map>
 #include <unordered_set>
 #include <queue>
+#include <ranges>
 
-#undef max
-#undef min
+#include "string_vector.h"
 
 using namespace std;
 using namespace std::string_literals;
 
-#define ALL(cont) cont.begin(), cont.end()
 #define FOR(var, max_value) for(int var=0;var<max_value;++var)
-
-class cStringVector : public std::vector<std::string>
-{
-public:
-	cStringVector() {}
-	cStringVector(const std::string &SourceString, const std::string &Delimeters, bool EmptyFieldsAllowed = true);
-	void FromString(const std::string &SourceString, const std::string &Delimeters, bool EmptyFieldsAllowed = true);
-	int FindIndex(const std::string &Token, int From = 0) const; // returns -1 if not found
-	cStringVector &&operator+(const std::string &ExtraField) const;
-};
-
-namespace
-{
-	template<class T> void AddFields(T &Container, const std::string &SourceString, const std::string &Delimeters, int EmptyFieldsAllowed)
-	{
-		const char *SourcePos = SourceString.c_str();
-		if(Delimeters.length()>1)
-		{
-			for(;;)
-			{
-				const char *DelimeterPos = strpbrk(SourcePos, Delimeters.c_str());
-				if(!DelimeterPos)
-					DelimeterPos = SourceString.c_str()+SourceString.length();
-				if(EmptyFieldsAllowed||DelimeterPos-SourcePos>0)
-					Container.push_back(std::string(SourcePos, (int)(DelimeterPos-SourcePos)));
-				if(!*DelimeterPos)
-					break;
-				SourcePos = DelimeterPos+1;
-			}
-		}
-		else
-		{
-			char DelimeterChar = Delimeters[0];
-			for(;;)
-			{
-				const char *DelimeterPos = strchr(SourcePos, DelimeterChar);
-				if(!DelimeterPos)
-					DelimeterPos = SourceString.c_str()+SourceString.length();
-				if(EmptyFieldsAllowed||DelimeterPos-SourcePos>0)
-					Container.push_back(std::string(SourcePos, (int)(DelimeterPos-SourcePos)));
-				if(!*DelimeterPos)
-					break;
-				SourcePos = DelimeterPos+1;
-			}
-		}
-	}
-}
-
-cStringVector::cStringVector(const std::string &SourceString, const std::string &Delimeters, bool EmptyFieldsAllowed)
-{
-	reserve(4);
-	AddFields(*this, SourceString, Delimeters, EmptyFieldsAllowed);
-}
-
-void cStringVector::FromString(const std::string &SourceString, const std::string &Delimeters, bool EmptyFieldsAllowed)
-{
-	clear();
-	reserve(4);
-	AddFields(*this, SourceString, Delimeters, EmptyFieldsAllowed);
-}
-
-int cStringVector::FindIndex(const std::string &Token, int From) const
-{
-	for(int i = From, iend = (int)size(); i<iend; ++i)
-		if((*this)[i]==Token)
-			return i;
-	return -1;
-}
 
 
 char buf[1000];
@@ -152,7 +83,7 @@ void printMatchCountByGame()
         games_played.emplace_back(i, game.played);
         longest_game_name = max(longest_game_name, (int)game.name.length());
     }
-    sort(ALL(games_played), [](auto& a, auto& b) { return a.second > b.second; });
+    sort(games_played.begin(), games_played.end(), [](auto& a, auto& b) { return a.second > b.second; });
     for (auto& p : games_played)
     {
         printGameNameHeading(p.first);
@@ -210,8 +141,12 @@ void printGamesByPlayer()
     }
 }
 
-void main()
+void uprising();
+
+int main()
 {
+    uprising();
+
 	auto f = fopen("games.csv", "r");
     out = fopen("stats.txt", "wt");
 	fgets(buf, 1000, f);
@@ -227,7 +162,7 @@ void main()
 		fgets(buf, 1000, f);
 		++match_count;
 		cStringVector parts(buf, ",\n", true);
-		auto gameIt = find_if(ALL(games), [name = parts[0]](auto& g) { return g.name==name; });
+		auto gameIt = find_if(games.begin(), games.end(), [name = parts[0]](auto& g) { return g.name==name; });
 		if(gameIt ==games.end())
 		{
 			games.emplace_back();
@@ -270,6 +205,6 @@ void main()
 
     printMatchCountByGame();
     printGamesByPlayer();
-    printPlayerVSPlayerStats();
+//    printPlayerVSPlayerStats();
     fclose(out);
 }

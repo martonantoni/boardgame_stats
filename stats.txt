@@ -1,12 +1,12 @@
-Number of matches: 836
+Number of matches: 845
 -------------------------
 
 Match count by game:
 
 Race for the Galaxy...: 130
 Dune..................: 97
+Dune: Uprising........: 68
 Floriferous...........: 60
-Dune: Uprising........: 59
 Roll for the Galaxy...: 39
 Herbaceous............: 29
 Ra....................: 27
@@ -82,7 +82,7 @@ Dice Forge............: 1
 --- Marci ---
 Race for the Galaxy...  played: 128 first: 45 ( 35%), last: 22 ( 17%), avg. score: 2.52
 Dune..................  played: 97 first: 34 ( 35%), last: 18 ( 18%), avg. score: 2.47
-Dune: Uprising........  played: 59 first: 28 ( 47%), last: 12 ( 20%), avg. score: 2.42
+Dune: Uprising........  played: 68 first: 31 ( 45%), last: 15 ( 22%), avg. score: 2.38
 Floriferous...........  played: 58 first: 15 ( 25%), last: 24 ( 41%), avg. score: 1.95
 Roll for the Galaxy...  played: 39 first: 19 ( 48%), last:  7 ( 17%), avg. score: 2.62
 Herbaceous............  played: 29 first: 11 ( 37%), last:  7 ( 24%), avg. score: 2.69
@@ -154,7 +154,7 @@ Callisto..............  played:  1 first:  0 (  0%), last:  1 (100%), avg. score
 --- Évi ---
 Race for the Galaxy...  played: 94 first: 15 ( 15%), last: 39 ( 41%), avg. score: 1.86
 Dune..................  played: 89 first: 13 ( 14%), last: 40 ( 44%), avg. score: 1.82
-Dune: Uprising........  played: 58 first:  4 (  6%), last: 34 ( 58%), avg. score: 1.55
+Dune: Uprising........  played: 67 first:  5 (  7%), last: 37 ( 55%), avg. score: 1.58
 Floriferous...........  played: 52 first: 16 ( 30%), last: 10 ( 19%), avg. score: 2.29
 Roll for the Galaxy...  played: 29 first:  2 (  6%), last: 16 ( 55%), avg. score: 1.66
 Herbaceous............  played: 25 first:  7 ( 28%), last:  8 ( 32%), avg. score: 2.28
@@ -218,7 +218,7 @@ Cat Lady..............  played:  1 first:  1 (100%), last:  0 (  0%), avg. score
 
 --- Zsolt ---
 Race for the Galaxy...  played: 105 first: 30 ( 28%), last: 30 ( 28%), avg. score: 2.29
-Dune: Uprising........  played: 59 first: 26 ( 44%), last:  9 ( 15%), avg. score: 2.39
+Dune: Uprising........  played: 68 first: 31 ( 45%), last: 12 ( 17%), avg. score: 1.72
 Dune..................  played: 44 first:  6 ( 13%), last: 14 ( 31%), avg. score: 2.14
 Floriferous...........  played: 28 first:  7 ( 25%), last: 12 ( 42%), avg. score: 2.11
 Ra....................  played: 26 first: 10 ( 38%), last:  4 ( 15%), avg. score: 2.96
@@ -300,6 +300,7 @@ Earth.................  played:  5 first:  2 ( 40%), last:  2 ( 40%), avg. score
 Suburbia..............  played:  5 first:  1 ( 20%), last:  2 ( 40%), avg. score: 1.80
 Klank.................  played:  5 first:  2 ( 40%), last:  1 ( 20%), avg. score: 2.80
 Isle of Skye..........  played:  4 first:  0 (  0%), last:  1 ( 25%), avg. score: 2.00
+Dune: Uprising........  played:  4 first:  0 (  0%), last:  3 ( 75%), avg. score: 1.25
 Nidavellir............  played:  4 first:  0 (  0%), last:  1 ( 25%), avg. score: 2.25
 Mission: Red Planet...  played:  4 first:  2 ( 50%), last:  1 ( 25%), avg. score: 2.75
 Jorvik................  played:  4 first:  1 ( 25%), last:  2 ( 50%), avg. score: 2.50
@@ -307,7 +308,6 @@ Roll for the Galaxy...  played:  4 first:  1 ( 25%), last:  2 ( 50%), avg. score
 Herbaceous............  played:  4 first:  1 ( 25%), last:  3 ( 75%), avg. score: 1.50
 Between Two Cities....  played:  4 first:  2 ( 50%), last:  1 ( 25%), avg. score: 3.00
 Francis Drake.........  played:  3 first:  0 (  0%), last:  1 ( 33%), avg. score: 2.00
-Dune: Uprising........  played:  3 first:  0 (  0%), last:  3 (100%), avg. score: 1.00
 For Sale..............  played:  3 first:  0 (  0%), last:  1 ( 33%), avg. score: 1.67
 Glen More II..........  played:  3 first:  0 (  0%), last:  0 (  0%), avg. score: 2.67
 Kingdomino............  played:  3 first:  1 ( 33%), last:  1 ( 33%), avg. score: 2.00

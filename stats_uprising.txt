@@ -1,66 +1,67 @@
-Number of games: 46
+Number of games: 54
 
  7 turns: 1 games
- 8 turns: 16 games
- 9 turns: 21 games
-10 turns: 8 games
+ 8 turns: 20 games
+ 9 turns: 24 games
+10 turns: 9 games
 
 ----- PLAYERS -----
 -- Zsolt --
-wins: 22 ( 47%), avg. points: 10.17
-  - in position 1 played 14 wins:  8 ( 57%), avg. points: 10.14
-  - in position 2 played 17 wins: 10 ( 58%), avg. points: 10.88
-  - in position 3 played 15 wins:  4 ( 26%), avg. points: 9.40
-  - after Evi   played 31 wins: 14 ( 45%), avg. points: 10.00
-  - after Marci played 15 wins:  8 ( 53%), avg. points: 10.53
+wins: 26 ( 48%), avg. points: 10.06
+  - in position 1 played 16 wins:  9 ( 56%), avg. points: 9.81
+  - in position 2 played 22 wins: 12 ( 54%), avg. points: 10.59
+  - in position 3 played 16 wins:  5 ( 31%), avg. points: 9.56
+  - after Evi   played 34 wins: 16 ( 47%), avg. points: 10.00
+  - after Marci played 20 wins: 10 ( 50%), avg. points: 10.15
 -- Marci --
-wins: 21 ( 45%), avg. points: 10.11
-  - in position 1 played 13 wins:  5 ( 38%), avg. points: 10.08
-  - in position 2 played 18 wins: 11 ( 61%), avg. points: 10.50
-  - in position 3 played 15 wins:  5 ( 33%), avg. points: 9.67
-  - after Zsolt played 31 wins: 15 ( 48%), avg. points: 9.94
-  - after Evi   played 15 wins:  6 ( 40%), avg. points: 10.47
+wins: 24 ( 44%), avg. points: 9.98
+  - in position 1 played 16 wins:  6 ( 37%), avg. points: 9.75
+  - in position 2 played 20 wins: 11 ( 55%), avg. points: 10.30
+  - in position 3 played 18 wins:  7 ( 38%), avg. points: 9.83
+  - after Zsolt played 34 wins: 16 ( 47%), avg. points: 9.94
+  - after Evi   played 20 wins:  8 ( 40%), avg. points: 10.05
 -- Evi --
-wins:  3 (  6%), avg. points: 8.43
-  - in position 1 played 19 wins:  2 ( 10%), avg. points: 9.11
-  - in position 2 played 11 wins:  1 (  9%), avg. points: 8.91
-  - in position 3 played 16 wins:  0 (  0%), avg. points: 7.31
-  - after Marci played 31 wins:  2 (  6%), avg. points: 8.16
-  - after Zsolt played 15 wins:  1 (  6%), avg. points: 9.00
+wins:  4 (  7%), avg. points: 8.46
+  - in position 1 played 22 wins:  2 (  9%), avg. points: 8.86
+  - in position 2 played 12 wins:  1 (  8%), avg. points: 8.83
+  - in position 3 played 20 wins:  1 (  5%), avg. points: 7.80
+  - after Marci played 34 wins:  2 (  5%), avg. points: 8.15
+  - after Zsolt played 20 wins:  2 ( 10%), avg. points: 9.00
 
 
 
 ----- LEADERS (Zsolt, Marci) -----
-Muad'Dib picked  8 times, wins:  6 ( 75%), avg. points: 11.38
-Shaddam  picked  3 times, wins:  2 ( 66%), avg. points: 10.67
+Muad'Dib picked 10 times, wins:  6 ( 60%), avg. points: 10.80
 Jessica  picked  7 times, wins:  4 ( 57%), avg. points: 10.57
-Irulan   picked 11 times, wins:  6 ( 54%), avg. points: 10.55
+Irulan   picked 13 times, wins:  7 ( 53%), avg. points: 10.38
 Feyd     picked 13 times, wins:  7 ( 53%), avg. points: 9.69
-Gurney   picked 19 times, wins: 10 ( 52%), avg. points: 10.58
-Staban   picked 13 times, wins:  5 ( 38%), avg. points: 10.15
+Shaddam  picked  6 times, wins:  3 ( 50%), avg. points: 9.50
+Gurney   picked 24 times, wins: 12 ( 50%), avg. points: 10.33
+Staban   picked 15 times, wins:  6 ( 40%), avg. points: 9.93
+Margot   picked 15 times, wins:  4 ( 26%), avg. points: 9.33
 Amber    picked  5 times, wins:  1 ( 20%), avg. points: 9.00
-Margot   picked 13 times, wins:  2 ( 15%), avg. points: 8.92
 
 
 
 ----- LEADERS (all) -----
-Shaddam  picked  3 times, wins:  2 ( 66%), avg. points: 10.67
-Muad'Dib picked 11 times, wins:  6 ( 54%), avg. points: 10.91
 Jessica  picked  8 times, wins:  4 ( 50%), avg. points: 9.88
-Gurney   picked 27 times, wins: 11 ( 40%), avg. points: 9.96
-Feyd     picked 21 times, wins:  8 ( 38%), avg. points: 9.29
-Irulan   picked 16 times, wins:  6 ( 37%), avg. points: 9.31
-Staban   picked 16 times, wins:  5 ( 31%), avg. points: 9.81
-Margot   picked 24 times, wins:  3 ( 12%), avg. points: 8.92
+Muad'Dib picked 13 times, wins:  6 ( 46%), avg. points: 10.54
+Gurney   picked 32 times, wins: 13 ( 40%), avg. points: 9.88
+Irulan   picked 18 times, wins:  7 ( 38%), avg. points: 9.33
+Shaddam  picked  8 times, wins:  3 ( 37%), avg. points: 9.12
+Staban   picked 18 times, wins:  6 ( 33%), avg. points: 9.67
+Feyd     picked 27 times, wins:  9 ( 33%), avg. points: 9.19
+Margot   picked 26 times, wins:  5 ( 19%), avg. points: 9.15
 Amber    picked 12 times, wins:  1 (  8%), avg. points: 8.83
 
 
 
 ----- LEADERS (Evi) -----
+Feyd     picked 14 times, wins:  2 ( 14%), avg. points: 8.71
 Gurney   picked  8 times, wins:  1 ( 12%), avg. points: 8.50
-Feyd     picked  8 times, wins:  1 ( 12%), avg. points: 8.62
 Margot   picked 11 times, wins:  1 (  9%), avg. points: 8.91
 Staban   picked  3 times, wins:  0 (  0%), avg. points: 8.33
+Shaddam  picked  2 times, wins:  0 (  0%), avg. points: 8.00
 Muad'Dib picked  3 times, wins:  0 (  0%), avg. points: 9.67
 Jessica  picked  1 times, wins:  0 (  0%), avg. points: 5.00
 Irulan   picked  5 times, wins:  0 (  0%), avg. points: 6.60
@@ -69,24 +70,25 @@ Amber    picked  7 times, wins:  0 (  0%), avg. points: 8.71
 
 
 ----- LEADERS (Zsolt) -----
-Muad'Dib picked  6 times, wins:  4 ( 66%), avg. points: 11.00
 Irulan   picked  6 times, wins:  4 ( 66%), avg. points: 10.50
-Gurney   picked  9 times, wins:  5 ( 55%), avg. points: 10.67
-Staban   picked  6 times, wins:  3 ( 50%), avg. points: 10.33
+Staban   picked  7 times, wins:  4 ( 57%), avg. points: 10.57
+Gurney   picked 11 times, wins:  6 ( 54%), avg. points: 10.36
+Muad'Dib picked  8 times, wins:  4 ( 50%), avg. points: 10.38
 Jessica  picked  4 times, wins:  2 ( 50%), avg. points: 11.25
 Feyd     picked  6 times, wins:  3 ( 50%), avg. points: 9.33
 Amber    picked  3 times, wins:  1 ( 33%), avg. points: 9.33
-Margot   picked  6 times, wins:  0 (  0%), avg. points: 8.67
+Margot   picked  8 times, wins:  2 ( 25%), avg. points: 9.50
+Shaddam  picked  1 times, wins:  0 (  0%), avg. points: 4.00
 
 
 
 ----- LEADERS (Marci) -----
 Muad'Dib picked  2 times, wins:  2 (100%), avg. points: 12.50
-Shaddam  picked  3 times, wins:  2 ( 66%), avg. points: 10.67
 Jessica  picked  3 times, wins:  2 ( 66%), avg. points: 9.67
+Shaddam  picked  5 times, wins:  3 ( 60%), avg. points: 10.60
 Feyd     picked  7 times, wins:  4 ( 57%), avg. points: 10.00
-Gurney   picked 10 times, wins:  5 ( 50%), avg. points: 10.50
-Irulan   picked  5 times, wins:  2 ( 40%), avg. points: 10.60
-Staban   picked  7 times, wins:  2 ( 28%), avg. points: 10.00
+Gurney   picked 13 times, wins:  6 ( 46%), avg. points: 10.31
+Irulan   picked  7 times, wins:  3 ( 42%), avg. points: 10.29
 Margot   picked  7 times, wins:  2 ( 28%), avg. points: 9.14
+Staban   picked  8 times, wins:  2 ( 25%), avg. points: 9.38
 Amber    picked  2 times, wins:  0 (  0%), avg. points: 8.50

@@ -4,6 +4,13 @@ Number of games: 69
  8 turns: 30 games
  9 turns: 26 games
 10 turns: 10 games
+winner with 10 points: 19 games ( 27%)
+winner with 11 points: 22 games ( 31%)
+winner with 12 points: 17 games ( 24%)
+winner with 13 points: 7 games ( 10%)
+winner with 14 points: 2 games (  2%)
+winner with 15 points: 1 games (  1%)
+winner with 16 points: 1 games (  1%)
 
 ----- PLAYERS -----
 -- Zsolt --

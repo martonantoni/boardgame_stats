@@ -203,6 +203,20 @@ void uprising()
             continue;
         std::print(out, "{:2} turns: {} games\n", gameLength, count);
     }
+
+    std::vector<int> winnerPoints(30, 0);
+    for (auto& game : games)
+    {
+        auto winnerIt = std::ranges::find_if(game.mPlayers, [](const cGame::cPlayerData& player) { return player.mPlace == 1; });
+        if (winnerIt != game.mPlayers.end() && winnerIt->mPoints < static_cast<int>(winnerPoints.size()))
+            winnerPoints[winnerIt->mPoints]++;
+    }
+    for (auto&& [points, count] : std::views::enumerate(winnerPoints))
+    {
+        if (count == 0)
+            continue;
+        std::print(out, "winner with {:2} points: {} games ({:3}%)\n", points, count, count * 100 / static_cast<int>(games.size()));
+    }
     
 
     std::print(out, "\n----- PLAYERS -----\n");

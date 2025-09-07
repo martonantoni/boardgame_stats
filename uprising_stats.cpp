@@ -201,9 +201,30 @@ void uprising()
     {
         if(count == 0)
             continue;
-        std::print(out, "{:2} turns: {} games\n", gameLength, count);
+        std::print(out, "{:-2} turns: {:-2} games ({:-3}%)\n", gameLength, count, count * 100 / static_cast<int>(games.size()));
     }
-
+    std::print(out, "\n");
+    std::vector<int> scoreDiffs(30, 0);
+    for (auto& game : games)
+    {
+        if (game.mPlayers.size() < 2)
+            continue;
+        auto winnerIt = std::ranges::find_if(game.mPlayers, [](const cGame::cPlayerData& player) { return player.mPlace == 1; });
+        auto secondIt = std::ranges::find_if(game.mPlayers, [](const cGame::cPlayerData& player) { return player.mPlace == 2; });
+        if (winnerIt != game.mPlayers.end() && secondIt != game.mPlayers.end())
+        {
+            int diff = winnerIt->mPoints - secondIt->mPoints;
+            if (diff < static_cast<int>(scoreDiffs.size()))
+                scoreDiffs[diff]++;
+        }
+    }
+    for (auto&& [diff, count] : std::views::enumerate(scoreDiffs))
+    {
+        if (count == 0)
+            continue;
+        std::print(out, "winner won by {} points: {:-2} games ({:-3}%)\n", diff, count, count * 100 / static_cast<int>(games.size()));
+    }
+    std::print(out, "\n");
     std::vector<int> winnerPoints(30, 0);
     for (auto& game : games)
     {
@@ -215,7 +236,7 @@ void uprising()
     {
         if (count == 0)
             continue;
-        std::print(out, "winner with {:2} points: {} games ({:3}%)\n", points, count, count * 100 / static_cast<int>(games.size()));
+        std::print(out, "winner with {:2} points: {:-2} games ({:-3}%)\n", points, count, count * 100 / static_cast<int>(games.size()));
     }
     
 

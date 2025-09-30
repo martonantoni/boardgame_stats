@@ -54,6 +54,20 @@ struct cPlayer
     std::unordered_map<std::string, cPerformance> mLeaders;
 };
 
+struct cLeaderPerformance
+{
+    struct cPositionData
+    {
+        int mPicked = 0;
+        int mWins = 0;
+    };
+    std::vector<cPositionData> mPositions;
+    cLeaderPerformance() : mPositions(4) {}
+};
+
+std::unordered_map<std::string, cLeaderPerformance> leaderStats;
+
+
 std::unordered_map<std::string, cPlayer> players;
 
 }
@@ -173,6 +187,8 @@ void uprising()
             {
                 playerData.mLeaders[player.mLeader].mLosses++;
             }
+            leaderStats[player.mLeader].mPositions[positionIdx].mPicked++;
+            leaderStats[player.mLeader].mPositions[positionIdx].mWins += player.mPlace == 1 ? 1 : 0;
 
             auto& previousPlayer = game.mPlayers[(positionIdx + 2) % 3].mName;
             auto& afterPlayerData = playerData.mAfterPlayer[previousPlayer];
@@ -267,6 +283,16 @@ void uprising()
     printLeadersStats(out, { "Zsolt" });
     std::print(out, "\n\n\n----- LEADERS (Marci) -----\n");
     printLeadersStats(out, { "Marci" });
+
+    std::print(out, "\n\n\n----- Leader Position / Win -----\n");
+    for(auto&& [leaderName, leaderData]: leaderStats)
+    {
+        std::print(out, "-- {} --\n", leaderName);
+        for(auto&& [positionIdx, positionData]: std::views::enumerate(leaderData.mPositions) | std::views::take(3))
+        {
+            std::print(out, "  - seat #{} picked {:2} times, wins: {:2} ({:3}%)\n", positionIdx + 1, positionData.mPicked, positionData.mWins, positionData.mPicked == 0 ? 0 : positionData.mWins * 100 / positionData.mPicked);
+        }
+    }
 
 
 }

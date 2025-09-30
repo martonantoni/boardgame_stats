@@ -107,3 +107,43 @@ Margot   picked 10 times, wins:  3 ( 30%), avg. points: 8.50
 Irulan   picked 10 times, wins:  3 ( 30%), avg. points: 10.00
 Staban   picked  9 times, wins:  2 ( 22%), avg. points: 9.44
 Amber    picked  3 times, wins:  0 (  0%), avg. points: 9.00
+
+
+
+----- Leader Position / Win -----
+-- Margot --
+  - seat #1 picked  8 times, wins:  1 ( 12%)
+  - seat #2 picked  9 times, wins:  4 ( 44%)
+  - seat #3 picked 17 times, wins:  3 ( 17%)
+-- Gurney --
+  - seat #1 picked 13 times, wins:  6 ( 46%)
+  - seat #2 picked 13 times, wins:  4 ( 30%)
+  - seat #3 picked 13 times, wins:  5 ( 38%)
+-- Amber --
+  - seat #1 picked  5 times, wins:  0 (  0%)
+  - seat #2 picked  5 times, wins:  1 ( 20%)
+  - seat #3 picked  3 times, wins:  0 (  0%)
+-- Irulan --
+  - seat #1 picked  6 times, wins:  2 ( 33%)
+  - seat #2 picked  8 times, wins:  2 ( 25%)
+  - seat #3 picked 12 times, wins:  4 ( 33%)
+-- Muad'Dib --
+  - seat #1 picked 11 times, wins:  6 ( 54%)
+  - seat #2 picked  7 times, wins:  4 ( 57%)
+  - seat #3 picked  2 times, wins:  0 (  0%)
+-- Jessica --
+  - seat #1 picked  1 times, wins:  1 (100%)
+  - seat #2 picked  6 times, wins:  4 ( 66%)
+  - seat #3 picked  3 times, wins:  0 (  0%)
+-- Feyd --
+  - seat #1 picked 11 times, wins:  2 ( 18%)
+  - seat #2 picked 11 times, wins:  7 ( 63%)
+  - seat #3 picked 13 times, wins:  3 ( 23%)
+-- Staban --
+  - seat #1 picked 10 times, wins:  3 ( 30%)
+  - seat #2 picked  6 times, wins:  1 ( 16%)
+  - seat #3 picked  4 times, wins:  2 ( 50%)
+-- Shaddam --
+  - seat #1 picked  4 times, wins:  1 ( 25%)
+  - seat #2 picked  4 times, wins:  3 ( 75%)
+  - seat #3 picked  2 times, wins:  0 (  0%)

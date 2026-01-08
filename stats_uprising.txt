@@ -1,99 +1,116 @@
-Number of games: 69
+Number of games: 81
 
- 7 turns:  3 games (  4%)
- 8 turns: 30 games ( 43%)
- 9 turns: 26 games ( 37%)
-10 turns: 10 games ( 14%)
-
-winner won by 0 points:  7 games ( 10%)
-winner won by 1 points: 19 games ( 27%)
-winner won by 2 points: 16 games ( 23%)
-winner won by 3 points: 15 games ( 21%)
-winner won by 4 points:  8 games ( 11%)
-winner won by 5 points:  2 games (  2%)
-
-winner with 10 points: 19 games ( 27%)
-winner with 11 points: 22 games ( 31%)
-winner with 12 points: 17 games ( 24%)
-winner with 13 points:  7 games ( 10%)
-winner with 14 points:  2 games (  2%)
-winner with 15 points:  1 games (  1%)
-winner with 16 points:  1 games (  1%)
+ 7 turns: 3 games
+ 8 turns: 39 games
+ 9 turns: 29 games
+10 turns: 10 games
 
 ----- PLAYERS -----
 -- Zsolt --
-wins: 31 ( 44%), avg. points: 9.75
-  - in position 1 played 20 wins: 10 ( 50%), avg. points: 9.55
-  - in position 2 played 26 wins: 14 ( 53%), avg. points: 10.38
-  - in position 3 played 23 wins:  7 ( 30%), avg. points: 9.22
-  - after Evi   played 43 wins: 19 ( 44%), avg. points: 9.67
-  - after Marci played 26 wins: 12 ( 46%), avg. points: 9.88
+wins: 39 ( 48%), avg. points: 9.98
+  - in position 1 played 22 wins: 12 ( 54%), avg. points: 9.64
+  - in position 2 played 30 wins: 16 ( 53%), avg. points: 10.37
+  - in position 3 played 29 wins: 11 ( 37%), avg. points: 9.83
+  - after Evi   played 48 wins: 23 ( 47%), avg. points: 9.81
+  - after Marci played 33 wins: 16 ( 48%), avg. points: 10.21
 -- Marci --
-wins: 30 ( 43%), avg. points: 9.83
-  - in position 1 played 23 wins:  8 ( 34%), avg. points: 9.57
-  - in position 2 played 24 wins: 14 ( 58%), avg. points: 10.33
-  - in position 3 played 22 wins:  8 ( 36%), avg. points: 9.55
-  - after Zsolt played 43 wins: 20 ( 46%), avg. points: 9.79
-  - after Evi   played 26 wins: 10 ( 38%), avg. points: 9.88
+wins: 33 ( 40%), avg. points: 9.80
+  - in position 1 played 25 wins:  9 ( 36%), avg. points: 9.60
+  - in position 2 played 30 wins: 15 ( 50%), avg. points: 10.27
+  - in position 3 played 26 wins:  9 ( 34%), avg. points: 9.46
+  - after Zsolt played 48 wins: 21 ( 43%), avg. points: 9.67
+  - after Evi   played 33 wins: 12 ( 36%), avg. points: 10.00
 -- Evi --
-wins:  8 ( 11%), avg. points: 8.54
-  - in position 1 played 26 wins:  4 ( 15%), avg. points: 9.08
-  - in position 2 played 19 wins:  2 ( 10%), avg. points: 8.47
-  - in position 3 played 24 wins:  2 (  8%), avg. points: 8.00
-  - after Marci played 43 wins:  4 (  9%), avg. points: 8.21
-  - after Zsolt played 26 wins:  4 ( 15%), avg. points: 9.08
+wins:  9 ( 11%), avg. points: 8.53
+  - in position 1 played 34 wins:  5 ( 14%), avg. points: 8.91
+  - in position 2 played 21 wins:  2 (  9%), avg. points: 8.38
+  - in position 3 played 26 wins:  2 (  7%), avg. points: 8.15
+  - after Marci played 48 wins:  4 (  8%), avg. points: 8.23
+  - after Zsolt played 33 wins:  5 ( 15%), avg. points: 8.97
 
 
 
 ----- LEADERS (Zsolt, Marci) -----
+Y'rkoon  picked  1 times, wins:  1 (100%), avg. points: 10.00
+Esmar Tuek picked  4 times, wins:  3 ( 75%), avg. points: 11.50
+Liet Kynes picked  3 times, wins:  2 ( 66%), avg. points: 11.00
+Chani    picked  3 times, wins:  2 ( 66%), avg. points: 10.00
 Jessica  picked  8 times, wins:  5 ( 62%), avg. points: 10.88
 Muad'Dib picked 15 times, wins:  9 ( 60%), avg. points: 10.27
 Feyd     picked 19 times, wins: 10 ( 52%), avg. points: 9.53
 Shaddam  picked  8 times, wins:  4 ( 50%), avg. points: 9.25
-Gurney   picked 26 times, wins: 13 ( 50%), avg. points: 10.38
+Duncan   picked  2 times, wins:  1 ( 50%), avg. points: 10.00
+Gurney   picked 27 times, wins: 13 ( 48%), avg. points: 10.41
 Irulan   picked 20 times, wins:  8 ( 40%), avg. points: 9.75
-Staban   picked 17 times, wins:  6 ( 35%), avg. points: 9.65
+Staban   picked 18 times, wins:  7 ( 38%), avg. points: 9.72
+Mohiam   picked  3 times, wins:  1 ( 33%), avg. points: 9.00
 Margot   picked 19 times, wins:  5 ( 26%), avg. points: 9.00
 Amber    picked  6 times, wins:  1 ( 16%), avg. points: 9.17
+Piter    picked  1 times, wins:  0 (  0%), avg. points: 11.00
+Kota     picked  3 times, wins:  0 (  0%), avg. points: 11.00
+Hasimir Fenring picked  2 times, wins:  0 (  0%), avg. points: 9.50
 
 
 
 ----- LEADERS (all) -----
+Y'rkoon  picked  1 times, wins:  1 (100%), avg. points: 10.00
+Liet Kynes picked  3 times, wins:  2 ( 66%), avg. points: 11.00
 Muad'Dib picked 20 times, wins: 10 ( 50%), avg. points: 10.15
 Jessica  picked 10 times, wins:  5 ( 50%), avg. points: 10.20
+Esmar Tuek picked  7 times, wins:  3 ( 42%), avg. points: 10.29
 Shaddam  picked 10 times, wins:  4 ( 40%), avg. points: 9.00
-Gurney   picked 39 times, wins: 15 ( 38%), avg. points: 9.69
+Duncan   picked  5 times, wins:  2 ( 40%), avg. points: 9.20
+Chani    picked  5 times, wins:  2 ( 40%), avg. points: 9.00
+Gurney   picked 40 times, wins: 15 ( 37%), avg. points: 9.72
 Feyd     picked 35 times, wins: 12 ( 34%), avg. points: 9.14
-Staban   picked 20 times, wins:  6 ( 30%), avg. points: 9.45
+Staban   picked 21 times, wins:  7 ( 33%), avg. points: 9.52
 Irulan   picked 26 times, wins:  8 ( 30%), avg. points: 9.08
-Margot   picked 34 times, wins:  8 ( 23%), avg. points: 9.00
+Mohiam   picked  4 times, wins:  1 ( 25%), avg. points: 9.25
+Margot   picked 35 times, wins:  8 ( 22%), avg. points: 8.91
 Amber    picked 13 times, wins:  1 (  7%), avg. points: 8.92
+Piter    picked  2 times, wins:  0 (  0%), avg. points: 10.00
+Kota     picked  4 times, wins:  0 (  0%), avg. points: 10.75
+Hasimir Fenring picked  2 times, wins:  0 (  0%), avg. points: 9.50
 
 
 
 ----- LEADERS (Evi) -----
+Duncan   picked  3 times, wins:  1 ( 33%), avg. points: 8.67
 Muad'Dib picked  5 times, wins:  1 ( 20%), avg. points: 9.80
-Margot   picked 15 times, wins:  3 ( 20%), avg. points: 9.00
+Margot   picked 16 times, wins:  3 ( 18%), avg. points: 8.81
 Gurney   picked 13 times, wins:  2 ( 15%), avg. points: 8.31
 Feyd     picked 16 times, wins:  2 ( 12%), avg. points: 8.69
 Staban   picked  3 times, wins:  0 (  0%), avg. points: 8.33
 Shaddam  picked  2 times, wins:  0 (  0%), avg. points: 8.00
+Piter    picked  1 times, wins:  0 (  0%), avg. points: 9.00
+Mohiam   picked  1 times, wins:  0 (  0%), avg. points: 10.00
+Kota     picked  1 times, wins:  0 (  0%), avg. points: 10.00
 Jessica  picked  2 times, wins:  0 (  0%), avg. points: 7.50
 Irulan   picked  6 times, wins:  0 (  0%), avg. points: 6.83
+Esmar Tuek picked  3 times, wins:  0 (  0%), avg. points: 8.67
+Chani    picked  2 times, wins:  0 (  0%), avg. points: 7.50
 Amber    picked  7 times, wins:  0 (  0%), avg. points: 8.71
 
 
 
 ----- LEADERS (Zsolt) -----
+Y'rkoon  picked  1 times, wins:  1 (100%), avg. points: 10.00
+Mohiam   picked  1 times, wins:  1 (100%), avg. points: 13.00
+Liet Kynes picked  1 times, wins:  1 (100%), avg. points: 11.00
+Esmar Tuek picked  2 times, wins:  2 (100%), avg. points: 12.50
+Chani    picked  3 times, wins:  2 ( 66%), avg. points: 10.00
 Jessica  picked  5 times, wins:  3 ( 60%), avg. points: 11.60
+Staban   picked  9 times, wins:  5 ( 55%), avg. points: 10.00
 Muad'Dib picked 11 times, wins:  6 ( 54%), avg. points: 10.18
-Staban   picked  8 times, wins:  4 ( 50%), avg. points: 9.88
 Irulan   picked 10 times, wins:  5 ( 50%), avg. points: 9.50
 Gurney   picked 12 times, wins:  6 ( 50%), avg. points: 10.33
 Feyd     picked  9 times, wins:  4 ( 44%), avg. points: 9.00
 Amber    picked  3 times, wins:  1 ( 33%), avg. points: 9.33
 Margot   picked  9 times, wins:  2 ( 22%), avg. points: 9.56
 Shaddam  picked  2 times, wins:  0 (  0%), avg. points: 5.00
+Piter    picked  1 times, wins:  0 (  0%), avg. points: 11.00
+Kota     picked  1 times, wins:  0 (  0%), avg. points: 13.00
+Hasimir Fenring picked  1 times, wins:  0 (  0%), avg. points: 11.00
 
 
 
@@ -102,48 +119,14 @@ Muad'Dib picked  4 times, wins:  3 ( 75%), avg. points: 10.50
 Shaddam  picked  6 times, wins:  4 ( 66%), avg. points: 10.67
 Jessica  picked  3 times, wins:  2 ( 66%), avg. points: 9.67
 Feyd     picked 10 times, wins:  6 ( 60%), avg. points: 10.00
-Gurney   picked 14 times, wins:  7 ( 50%), avg. points: 10.43
+Liet Kynes picked  2 times, wins:  1 ( 50%), avg. points: 11.00
+Esmar Tuek picked  2 times, wins:  1 ( 50%), avg. points: 10.50
+Duncan   picked  2 times, wins:  1 ( 50%), avg. points: 10.00
+Gurney   picked 15 times, wins:  7 ( 46%), avg. points: 10.47
 Margot   picked 10 times, wins:  3 ( 30%), avg. points: 8.50
 Irulan   picked 10 times, wins:  3 ( 30%), avg. points: 10.00
 Staban   picked  9 times, wins:  2 ( 22%), avg. points: 9.44
+Mohiam   picked  2 times, wins:  0 (  0%), avg. points: 7.00
+Kota     picked  2 times, wins:  0 (  0%), avg. points: 10.00
+Hasimir Fenring picked  1 times, wins:  0 (  0%), avg. points: 8.00
 Amber    picked  3 times, wins:  0 (  0%), avg. points: 9.00
-
-
-
------ Leader Position / Win -----
--- Margot --
-  - seat #1 picked  8 times, wins:  1 ( 12%)
-  - seat #2 picked  9 times, wins:  4 ( 44%)
-  - seat #3 picked 17 times, wins:  3 ( 17%)
--- Gurney --
-  - seat #1 picked 13 times, wins:  6 ( 46%)
-  - seat #2 picked 13 times, wins:  4 ( 30%)
-  - seat #3 picked 13 times, wins:  5 ( 38%)
--- Amber --
-  - seat #1 picked  5 times, wins:  0 (  0%)
-  - seat #2 picked  5 times, wins:  1 ( 20%)
-  - seat #3 picked  3 times, wins:  0 (  0%)
--- Irulan --
-  - seat #1 picked  6 times, wins:  2 ( 33%)
-  - seat #2 picked  8 times, wins:  2 ( 25%)
-  - seat #3 picked 12 times, wins:  4 ( 33%)
--- Muad'Dib --
-  - seat #1 picked 11 times, wins:  6 ( 54%)
-  - seat #2 picked  7 times, wins:  4 ( 57%)
-  - seat #3 picked  2 times, wins:  0 (  0%)
--- Jessica --
-  - seat #1 picked  1 times, wins:  1 (100%)
-  - seat #2 picked  6 times, wins:  4 ( 66%)
-  - seat #3 picked  3 times, wins:  0 (  0%)
--- Feyd --
-  - seat #1 picked 11 times, wins:  2 ( 18%)
-  - seat #2 picked 11 times, wins:  7 ( 63%)
-  - seat #3 picked 13 times, wins:  3 ( 23%)
--- Staban --
-  - seat #1 picked 10 times, wins:  3 ( 30%)
-  - seat #2 picked  6 times, wins:  1 ( 16%)
-  - seat #3 picked  4 times, wins:  2 ( 50%)
--- Shaddam --
-  - seat #1 picked  4 times, wins:  1 ( 25%)
-  - seat #2 picked  4 times, wins:  3 ( 75%)
-  - seat #3 picked  2 times, wins:  0 (  0%)
